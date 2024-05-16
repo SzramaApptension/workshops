@@ -1,3 +1,3 @@
 # workshops
 
-test
+Project created for QA workshops purposes
