@@ -2,7 +2,7 @@ name: Playwright
 run-name: Testing on branch ${{github.head_ref}}
 on:
   schedule:
-    - cron: "23 9 * 7 6"
+    - cron: "40/15 9 * 7 6"
   pull_request:
 jobs:
   playwright:
